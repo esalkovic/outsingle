@@ -11,6 +11,12 @@ you can cite our paper::
 
 Edin Salkovic, Mohammad Amin Sadeghi, Abdelkader Baggag, Ahmed Gamal Rashed Salem, Halima Bensmail, OutSingle: A Novel Method of Detecting and Injecting Outliers in RNA-seq Count Data Using the Optimal Hard Threshold for Singular Values, Bioinformatics, 2023;, btad142, https://doi.org/10.1093/bioinformatics/btad142
 
+And please also check our other older models (both have related published papers)::
+
+https://github.com/esalkovic/outpyr
+
+https://github.com/esalkovic/outpyrx
+
 Installation
 ------------
 The recommended way is to just clone/download
