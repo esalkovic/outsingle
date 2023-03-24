@@ -7,9 +7,9 @@ alpha stage,
 so encountering bugs while
 running it is expected.
 If you use OutSingle in your research
-you can cite it with::
+you can cite our paper::
 
- TODO: add citation
+Edin Salkovic, Mohammad Amin Sadeghi, Abdelkader Baggag, Ahmed Gamal Rashed Salem, Halima Bensmail, OutSingle: A Novel Method of Detecting and Injecting Outliers in RNA-seq Count Data Using the Optimal Hard Threshold for Singular Values, Bioinformatics, 2023;, btad142, https://doi.org/10.1093/bioinformatics/btad142
 
 Installation
 ------------
